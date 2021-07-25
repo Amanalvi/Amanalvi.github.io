@@ -1,0 +1,10 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(241, 65, 168);
+    color: rgb(255, 255, 255);
+}
+.info{
+    border: solid;
+    padding: 15px;
+    width: 300px;
+}
